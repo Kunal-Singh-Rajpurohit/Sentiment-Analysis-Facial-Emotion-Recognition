@@ -4,6 +4,12 @@ I made this project using tensorflow,keras and openCV.
 
 Project Description:
 
+![Screenshot 2023-08-04 154647](https://github.com/Kunal-Singh-Rajpurohit/Sentiment-Analysis-Facial-Emotion-Recognition/assets/107204198/0fe31b11-3c61-4dfe-b549-798dca1210fd)
+
+![Screenshot 2023-08-04 155826](https://github.com/Kunal-Singh-Rajpurohit/Sentiment-Analysis-Facial-Emotion-Recognition/assets/107204198/baf16ada-ac50-431c-94d2-4eeb3f0d6288)
+
+![Screenshot 2023-08-04 154842](https://github.com/Kunal-Singh-Rajpurohit/Sentiment-Analysis-Facial-Emotion-Recognition/assets/107204198/79f887a4-d008-4ab3-a639-ad2974f12aab)
+
 Overview:
 The Sentiment Analysis Facial Emotion Recognition project aims to develop a system that can accurately detect and analyze emotions from facial expressions in real-time. The system will use computer vision and machine learning techniques to identify different emotions displayed by individuals through their facial features. By analyzing facial emotions, the project seeks to understand the emotional responses of people in various situations, which can have applications in fields such as market research, customer feedback analysis, and human-computer interaction.
 
